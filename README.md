@@ -1,4 +1,4 @@
-# Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI
+# Analise de Sentimentos com Language Studio no Azure AI
 
 ![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(11/Abr/2024)-green)
 
@@ -14,3 +14,11 @@ O processo de acesso e criação de recursos para a exploração dos recursos j�
 
 ## Insights
 
+### Texto 1: "O céu noturno brilha com estrelas distantes."
+- O texto foi escolhido pela minha interpretação da neutralidade dos sentimentos. E foi constatado que a ferramenta detectou a mesma neutralidade.
+
+[screen-capture (3).webm](https://github.com/Natythy/Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/assets/88320974/09bed291-7da6-4d4c-9fb6-d6d41e8d2ec3)
+
+
+### Texto 2: "O aroma do café fresco pela manhã é reconfortante."
+- 
