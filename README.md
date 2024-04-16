@@ -8,7 +8,7 @@ Este desafio é o 4º do Bootcamp [Microsoft Azure AI Fundamentals](https://web.
 
 ## Acesso
 
-O processo de acesso e criação de recursos para a exploração dos recursos já citados foram feitos com base nas orientações disponíveis pela Microsoft no seguint site (as instruções estão em inglês):
+O processo de acesso e criação de recursos para a exploração dos recursos já citados foram feitos com base nas orientações disponíveis pela Microsoft no seguinte site (as instruções estão em inglês):
 
 [Análise de Sentimento](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
 
